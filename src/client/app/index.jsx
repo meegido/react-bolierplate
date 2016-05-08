@@ -8,6 +8,7 @@ class App extends React.Component {
     return (
     	<div>
     		<p> Hello Reply y Ponyo!</p>
+    		<p> We love React!</p>
     		<AwesomeComponent />
     	</div>
     	)   
